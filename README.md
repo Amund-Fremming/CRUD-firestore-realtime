@@ -1,2 +1,3 @@
 # Firestore CRUD
-- Simple CRUD repo for firestore that handles real time updates.
+- Simple CRUD repo for firestore
+- Has a method for real time updates in the db
